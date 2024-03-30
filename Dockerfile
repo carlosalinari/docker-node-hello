@@ -10,7 +10,7 @@ USER root
 
 ENV AP /data/app
 ENV SCPATH /etc/supervisor/conf.d
-ENV WHO=Sean and Karl
+ENV WHO="Sam and Cloe"
 
 RUN apt-get -y update
 
